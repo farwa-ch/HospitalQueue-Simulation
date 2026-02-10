@@ -1,11 +1,10 @@
 # HospitalQueue-Simulation
 Simulate a hospital queue system in C++ using arrays - project modeling queue behavior.
 
-
+Idea: Simulate a simple hospital queue with patients arriving and being served in first-come, first-serve order. Uses array or linked list for queue simulation.
 ## Overview
-This project simulates a **hospital queue system** using **C++** and only the `iostream` library.  
-Patients are served in **first-come, first-serve order**, demonstrating **queue modeling and simulation**.  
-
+This project simulates a **hospital queue system** using **C++**   
+Patients are served in **first-come, first-serve order**, demonstrating **queue modeling and simulation**. 
 ---
 
 ## Research Objective
